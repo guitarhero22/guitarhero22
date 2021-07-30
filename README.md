@@ -9,6 +9,6 @@
 - 👯 I’m looking to collaborate on Reinforcement Learning, JavaScript, DL, Computer Graphics, Game Dev.
 - 📫 How to reach me: rushabhkanadia@gmail.com
 
-Quite a lot of interesting work I am doing is private 😸
+Quite a lot of interesting work I am doing is private 😞
 
 ![Rushabh's GitHub top langs](https://github-readme-stats.vercel.app/api?username=guitarhero22&count_private=true&theme=radical) ![Rushabh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guitarhero22&count_private=true&theme=radical) 
