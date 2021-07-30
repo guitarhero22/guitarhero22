@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋 I'm [Rushabh Kanadiya] (https://www.cse.iitb.ac.in/~rushabh/)
 
 <!--
 **guitarhero22/guitarhero22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
