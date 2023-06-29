@@ -5,7 +5,7 @@
 -->
 
 <!-- - 🔭 I’m currently working on myself 🙂 -->
-- 🌱 I’m currently learning a lot of stuff at IIT Bombay
+- CSE Btech class of 2022
 - I’m looking to collaborate on Reinforcement Learning, JavaScript, DL, Computer Graphics, Game Dev.
 <!-- - 📫 How to reach me: rushabhkanadia@gmail.com -->
 
